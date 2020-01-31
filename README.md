@@ -1,5 +1,4 @@
-# vueinaction.local
-
+# vue store 
 > desctiption vue learn
 
 ## Build Setup
