@@ -1,0 +1,85 @@
+{
+  "products":[
+      {
+        "id": 1001,
+        "title": "Amazon speaker",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <em>product 1</em>",
+        "price": 2000,
+        "image": "static/images/product/2.jpg",
+        "availableInventory": 10,
+        "rating": 3
+    },
+    {
+      "id": 1002,
+      "title": "JBL Speaker",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <em>product 2</em>",
+      "price": 2002,
+      "image": "static/images/product/jbl.jpeg",
+      "availableInventory": 10,
+      "rating": 1
+    },
+    {
+      "id": 1003,
+      "title": "Home Pods Speaker",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <em>product 3</em>",
+      "price": 2003,
+      "image": "static/images/product/macpods.jpg",
+      "availableInventory": 10,
+      "rating": 4
+    },
+    {
+      "id": 1004,
+      "title": "Sony Speaker",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<em>product 4</em>",
+      "price": 2003,
+      "image": "static/images/product/sony.jpg",
+      "availableInventory": 10,
+      "rating": 5
+    },
+    {
+      "id": 1005,
+      "title": "Jabra Speaker",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <em>product 5</em>",
+      "price": 2003,
+      "image": "static/images/product/jabra.jpg",
+      "availableInventory": 10,
+      "rating": 2
+    },
+    {
+      "id": 1101,
+      "title": "Canon",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <em>product 1</em>",
+      "price": 2000,
+      "image": "static/images/product/photo/Canon.jpg",
+      "availableInventory": 10,
+      "rating": 3
+    },
+    {
+      "id": 1102,
+      "title": "Nikon",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <em>product 2</em>",
+      "price": 2002,
+      "image": "static/images/product/photo/Nikon.jpg",
+      "availableInventory": 10,
+      "rating": 1
+    },
+    {
+      "id": 1103,
+      "title": "Sony",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <em>product 1</em>",
+      "price": 2000,
+      "image": "static/images/product/photo/Sony.jpeg",
+      "availableInventory": 10,
+      "rating": 3
+    },
+    {
+      "id": 1104,
+      "title": "Samsung",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <em>product 2</em>",
+      "price": 2002,
+      "image": "static/images/product/photo/Samsung.jpeg",
+      "availableInventory": 10,
+      "rating": 1
+    }
+  ]
+}

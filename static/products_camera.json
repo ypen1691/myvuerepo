@@ -1,0 +1,40 @@
+{
+  "products":[
+    {
+        "id": 1101,
+        "title": "Canon",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <em>product 1</em>",
+        "price": 2000,
+        "image": "images/product/photo/Canon.jpg",
+        "availableInventory": 10,
+        "rating": 3
+    },
+    {
+      "id": 1102,
+      "title": "Nikon",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <em>product 2</em>",
+      "price": 2002,
+      "image": "images/product/photo/Nikon.jpg",
+      "availableInventory": 10,
+      "rating": 1
+    },
+    {
+      "id": 1103,
+      "title": "Sony",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <em>product 1</em>",
+      "price": 2000,
+      "image": "images/product/photo/Sony.jpeg",
+      "availableInventory": 10,
+      "rating": 3
+    },
+    {
+      "id": 1104,
+      "title": "Samsung",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <em>product 2</em>",
+      "price": 2002,
+      "image": "images/product/photo/Samsung.jpeg",
+      "availableInventory": 10,
+      "rating": 1
+    }
+  ]
+}
