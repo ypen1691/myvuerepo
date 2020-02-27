@@ -72,12 +72,12 @@
 <script>
   /* eslint-disable */
   import MyHeader from './Header.vue';
+  import {mapGetters} from 'vuex';
   export default {
     name: "imain",
     // props:['cartItemCount'],
     data(){
       return{
-        products: {},
         cart:[]
       };
     },
@@ -110,6 +110,9 @@
       }
     },
     computed: {
+      ...mapGetters([
+        'products'
+      ]),
       cartItemCount: function (){
         return this.cart.length || ''
       },
@@ -147,12 +150,7 @@
       }
     },
     created: function () {
-      axios.get('/static/products.json')
-        .then((response) =>{
-          this.products=response.data.products;
-          console.log(this.products);
-        });
-
+      this.$store.dispatch('initStore');
     }
   }
 </script>
